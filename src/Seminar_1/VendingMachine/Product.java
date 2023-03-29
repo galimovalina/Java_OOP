@@ -1,8 +1,13 @@
 package Seminar_1.VendingMachine;
 
 public class Product {
-    String name;
-    double cost;
+    private String name;
+    private Double cost;
+
+    public Product(String name, Double cost) {
+        this.name = name;
+        this.cost = cost;
+    }
 
     public String getName() {
         return name;
@@ -12,11 +17,17 @@ public class Product {
         this.name = name;
     }
 
-    public double getCost() {
+    public Double getCost() {
         return cost;
     }
 
-    public void setCost(double cost) {
+    public void setCost(Double cost) {
         this.cost = cost;
+    }
+
+    @Override
+    public String toString() {
+        return "name='" + name + '\'' +
+                ", cost=" + cost;
     }
 }
