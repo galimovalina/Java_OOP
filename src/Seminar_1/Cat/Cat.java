@@ -1,6 +1,9 @@
 package Seminar_1.Cat;
 
-public class Cat {
+import Seminar_1.CatMover.CatInterface;
+import Seminar_1.CatMover.CatMover;
+
+public class Cat extends CatMover implements CatInterface {
     private String name;
     private int age;    //поля
 
@@ -18,5 +21,15 @@ public class Cat {
 
     public void setAge(int age) {
         this.age = age;
+    }
+
+    @Override
+    public void saySomething() {
+        System.out.println("MEOW");
+    }
+
+    @Override
+    public void sayWithInterface() {
+        System.out.println("meow with interface");
     }
 }

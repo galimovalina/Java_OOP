@@ -1,6 +1,6 @@
 package Seminar_1.VendingMachine;
 
-public class Product {
+public class Product extends abstractGoodProd {
     private String name;
     private Double cost;
 
@@ -29,5 +29,10 @@ public class Product {
     public String toString() {
         return "name='" + name + '\'' +
                 ", cost=" + cost;
+    }
+
+    @Override
+    public void goodProd() {
+        System.out.println("Im a good product!");
     }
 }
