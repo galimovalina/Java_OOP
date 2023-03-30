@@ -5,19 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15308db8-b0c3-4315-a9f4-5835491e2435" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Seminar_1/CatMover/BengalCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_1/CatMover/CatInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_1/CatMover/CatMover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_1/VendingMachine/Machine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_1/VendingMachine/WaterMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_1/VendingMachine/abstractGoodProd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_1/VendingMachine/waterBottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework1/HotDrinks/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework1/HotDrinks/HotDrink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework1/HotDrinks/HotDrinksMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework1/HotDrinks/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework1/HotDrinks/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework1/HotDrinks/VendingMachine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminar_1/Cat/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminar_1/Cat/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminar_1/Cat/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminar_1/Cat/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seminar_1/VendingMachine/Machine.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Seminar_1/VendingMachine/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminar_1/VendingMachine/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Seminar_1/VendingMachine/VendingMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminar_1/VendingMachine/VendingMachine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seminar_1/VendingMachine/WaterMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminar_1/VendingMachine/WaterMachine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Seminar_1/VendingMachine/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminar_1/VendingMachine/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Seminar_1/VendingMachine/waterBottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminar_1/VendingMachine/waterBottle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +48,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/Java_OOP"
+    "last_opened_file_path": "C:/Users/User/Desktop/OSeminar_1-master"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

@@ -1,6 +1,7 @@
-package Seminar_1.VendingMachine;
+package Homework1.HotDrinks;
 
-public class Product{
+public class Product {
+
     private String name;
     private Double cost;
 
@@ -32,3 +33,4 @@ public class Product{
     }
 
 }
+
