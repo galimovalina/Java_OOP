@@ -16,4 +16,9 @@ public class Coffee extends HotDrink{
     public void setTemperature(int temperature) {
         this.temperature = temperature;
     }
+
+    @Override
+    public String toString() {
+        return super.toString()+", temperature: "+temperature;
+    }
 }

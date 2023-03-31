@@ -4,14 +4,14 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class HotDrinksMachine implements VendingMachine {
-    public HotDrinksMachine(List<Product> products) {
-        this.products = products;
+    public HotDrinksMachine(List<HotDrink> drinks) {
+        this.drinks = drinks;
     }
 
-    List<Product> products=new ArrayList<>();
+    List<HotDrink> drinks= new ArrayList<>();
     @Override
     public Product getProduct(String name) {
-        for (Product item: products) {
+        for (Product item: drinks) {
             if (item.getName().equalsIgnoreCase(name))
                 return item;
         }
@@ -19,7 +19,7 @@ public class HotDrinksMachine implements VendingMachine {
     }
 
     public Product getProduct(String name, int volume) {
-        for (Product item: products) {
+        for (Product item: drinks) {
             if (item.getName().equalsIgnoreCase(name)&&((HotDrink)(item)).getVolume()==volume)
                 return item;
         }
@@ -27,7 +27,7 @@ public class HotDrinksMachine implements VendingMachine {
     }
 
     public Product getProduct(String name, int volume, int temperature) {
-        for (Product item: products) {
+        for (Product item: drinks) {
             if (item.getName().equalsIgnoreCase(name)&&((HotDrink)(item)).getVolume()==volume
                     &&((Coffee)(item)).getTemperature()==temperature)
                 return item;

@@ -24,10 +24,10 @@ public class waterBottle extends Product {
                 '}';
     }
 
-    @Override
-    public void goodProd() {
-        System.out.println("Im a good water!");
-    }
+//    @Override
+//    public void goodProd() {
+//        System.out.println("Im a good water!");
+//    }
 
     @Override
     public boolean equals(Object o) {

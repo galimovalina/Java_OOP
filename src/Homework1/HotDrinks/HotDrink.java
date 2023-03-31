@@ -17,10 +17,9 @@ public class HotDrink extends Product {
         this.volume = volume;
     }
 
+
     @Override
     public String toString() {
-        return "Горясий напиток:" +
-                ", объем=" + volume +
-                '}';
+        return super.toString()+", volume: "+volume;
     }
 }

@@ -30,4 +30,4 @@ public class WaterMachine implements VendingMachine {
         throw new IllegalStateException(String.format("Продукт c названием %s не найден.", name));
     }
 }
-}
+
