@@ -5,14 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15308db8-b0c3-4315-a9f4-5835491e2435" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Seminar_2/Actor/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_2/Actor/ActorBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_2/Actor/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_2/DefaultInterface/DefaultInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_2/DefaultInterface/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_2/DefaultInterface/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_2/Market/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_2/Market/Market.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_2/Market/MarketBehavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_2/Market/QueueBehavior.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework1/HotDrinks/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework1/HotDrinks/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework1/HotDrinks/HotDrink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework1/HotDrinks/HotDrink.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework1/HotDrinks/HotDrinksMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework1/HotDrinks/HotDrinksMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework1/HotDrinks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework1/HotDrinks/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework1/HotDrinks/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework1/HotDrinks/Product.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminar_1/VendingMachine/WaterMachine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminar_1/VendingMachine/WaterMachine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Seminar_1/VendingMachine/waterBottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Seminar_1/VendingMachine/waterBottle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
