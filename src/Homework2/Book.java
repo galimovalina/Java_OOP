@@ -19,6 +19,11 @@ public class Book extends Note{
         this.publishingLocation = publishingLocation;
     }
 
+    /**
+     *
+     * @param pages кол-во страниц
+     * @return является ли кол-во страниц простым числом
+     */
     @Override
     public boolean isPrime(int pages) {
         if (pages < 2) {

@@ -15,12 +15,13 @@ public class BookCollection implements Library {
      * и год издания после 2010 г, включительно.
      **/
 
-    public Book Filter() {
+    public List<Book> Filter() {
+        List<Book> result=new ArrayList<>();
         for (Book book : books) {
             if (book.isPrime(book.getPages()) && book.getAuthor().toLowerCase().contains("а") && book.getPublishingYear() >= 2010) {
-                return book;
+                result.add(book);
             }
         }
-        return null;
+        return result;
     }
 }
