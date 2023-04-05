@@ -64,7 +64,7 @@ public class Book extends Note {
 
     @Override
     public String toString() {
-        return "Книга: " + '\n' +
+        return  "Книга: " + '\n' +
                 "Название: " + name + '\n' +
                 "Автор: " + author + '\n' +
                 "Кол-во страниц: " + pages + '\n' +

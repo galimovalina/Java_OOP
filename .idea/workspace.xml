@@ -5,6 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15308db8-b0c3-4315-a9f4-5835491e2435" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Seminar_3/AnimalShelter/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_3/AnimalShelter/AnimalComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_3/AnimalShelter/AnimalShelter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_3/AnimalShelter/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_3/AnimalShelter/CatShelter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_3/AnimalShelter/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_3/AnimalShelter/DogShelter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_3/AnimalShelter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_3/Iterators/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_3/Iterators/CatIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_3/Iterators/CatShelter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_3/Iterators/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Homework2/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework2/Book.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
