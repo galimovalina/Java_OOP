@@ -5,7 +5,7 @@ import java.util.List;
 
 import static java.lang.Math.sqrt;
 
-public class Book extends Note{
+public class Book extends Note {
     private String publishingHouse;
     private int publishingYear;
     private String publishingLocation;
@@ -20,7 +20,6 @@ public class Book extends Note{
     }
 
     /**
-     *
      * @param pages кол-во страниц
      * @return является ли кол-во страниц простым числом
      */
@@ -65,14 +64,13 @@ public class Book extends Note{
 
     @Override
     public String toString() {
-        return "Книга {" +
-                "Название: '" + name + '\'' +
-                ", Автор: '" + author + '\'' +
-                ", Кол-во страниц: " + pages +
-                ", Год публикации: " + publishingYear +
-                ", Издательство: '" + publishingHouse + '\'' +
-                ", Город издания: '" + publishingLocation + '\'' +
-                ", Цена: " + price +
-                '}'+'\'';
+        return "Книга: " + '\n' +
+                "Название: " + name + '\n' +
+                "Автор: " + author + '\n' +
+                "Кол-во страниц: " + pages + '\n' +
+                "Год публикации: " + publishingYear + '\n' +
+                "Издательство: " + publishingHouse + '\n' +
+                "Город издания: " + publishingLocation + '\n' +
+                "Цена: " + price + '\n' + '\n';
     }
 }
