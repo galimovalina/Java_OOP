@@ -5,20 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15308db8-b0c3-4315-a9f4-5835491e2435" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Seminar_3/AnimalShelter/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_3/AnimalShelter/AnimalComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_3/AnimalShelter/AnimalShelter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_3/AnimalShelter/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_3/AnimalShelter/CatShelter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_3/AnimalShelter/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_3/AnimalShelter/DogShelter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_3/AnimalShelter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_3/Iterators/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_3/Iterators/CatIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_3/Iterators/CatShelter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_3/Iterators/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework3/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework3/HotDrink.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework3/HotDrinksIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework3/HotDrinksMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework3/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework3/ProductComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework3/VendingMachine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework2/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework2/Book.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,13 +40,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/Desktop/OSeminar_1-master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/User/IdeaProjects/Java_OOP/src"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\IdeaProjects\Java_OOP\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Homework3" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
