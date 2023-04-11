@@ -6,7 +6,7 @@ import Homework4.oseminar.data.Teacher;
 import java.util.ArrayList;
 import java.util.List;
 
-public class TeacherService implements UserService<Teacher>{
+public class TeacherService<T extends Teacher> implements UserService{
     private final List<Teacher> teachers;
 
     public TeacherService() {

@@ -5,27 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15308db8-b0c3-4315-a9f4-5835491e2435" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Homework4/oseminar/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework4/oseminar/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework4/oseminar/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework4/oseminar/data/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework4/oseminar/data/StudentGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework4/oseminar/data/StudentGroupIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework4/oseminar/data/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework4/oseminar/data/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework4/oseminar/data/UserComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework4/oseminar/service/StudentGroupService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework4/oseminar/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework4/oseminar/service/TeacherService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework4/oseminar/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework4/oseminar/view/StudentView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework4/oseminar/view/TeacherView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homework4/oseminar/view/UserView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_4/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_4/BasicAnimal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_4/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Seminar_4/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
