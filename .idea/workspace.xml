@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15308db8-b0c3-4315-a9f4-5835491e2435" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Seminar_5/Controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_5/Repositorium/UserRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_5/Service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_5/View/UserView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_5/model/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,13 +37,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/User/IdeaProjects/Java_OOP/src/Homework4"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/Java_OOP/src/Homework4&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\User\IdeaProjects\Java_OOP\src\Homework4" />
