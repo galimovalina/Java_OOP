@@ -12,7 +12,8 @@ public class UserView {
         System.out.println("enter ur data");
         User user1=new User(scanner.nextInt(), scanner.next(), scanner.nextInt());
         userController.saveNewUser(user1);
-        userController.getUser(user1);
+        System.out.println(userController.getUser(user1));
+        userController.deleteUser(user1);
 
     }
 }
