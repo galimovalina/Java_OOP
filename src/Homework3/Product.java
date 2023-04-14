@@ -1,6 +1,7 @@
-package Seminar_1.VendingMachine;
+package Homework3;
 
-public class Product{
+public class Product {
+
     private String name;
     private Double cost;
 
@@ -27,8 +28,9 @@ public class Product{
 
     @Override
     public String toString() {
-        return "name='" + name + '\'' +
-                ", cost=" + cost;
+        return "Name: '" + name + '\'' +
+                ", cost: " + cost;
     }
 
 }
+
