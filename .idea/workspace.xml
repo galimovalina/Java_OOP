@@ -5,6 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15308db8-b0c3-4315-a9f4-5835491e2435" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework5/Controller/UserAccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework5/Controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework5/Model/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework5/Model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework5/Model/UserAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework5/Service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework5/Service/UserAccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework5/Service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework5/View/UserAccountView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homework5/View/UserView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +27,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -35,19 +46,9 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/IdeaProjects/Java_OOP/src/Homework4&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\User\IdeaProjects\Java_OOP\src\Homework4" />
-      <recent name="C:\Users\User\IdeaProjects\Java_OOP\src" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Homework3" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
