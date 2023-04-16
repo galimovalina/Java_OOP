@@ -4,9 +4,9 @@ public class UserAccount {
     private User user;
     private Integer balance;
 
-    public UserAccount(User user, Integer balance) {
+    public UserAccount(User user) {
         this.user = user;
-        this.balance = balance;
+        this.balance = 0;
     }
 
     public User getUser() {

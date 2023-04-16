@@ -1,13 +1,10 @@
 package Homework5.Controller;
 
-import Homework5.Model.Account;
 import Homework5.Model.User;
 import Homework5.Model.UserAccount;
-import Homework5.Service.AccountService;
 import Homework5.Service.UserAccountService;
 import Homework5.Service.UserService;
 import Homework5.View.UserAccountView;
-import Homework5.View.UserView;
 
 public class UserAccountController {
     private final UserService userService=new UserService();
@@ -20,22 +17,19 @@ public class UserAccountController {
     public void deleteUser(User user){
         userService.deleteUser(user);
     }
-    public void getUser(User user){
-        userService.getUser(user);
+    public User getUser(User user){
+        return userService.getUser(user);
+    }
+    public UserAccount createNewUserAccount(User user){
+        return userAccService.createNewUserAccount(user);
     }
     public void addMoney(UserAccount userAcc){
         userAccService.addMoney(userAcc);
     }
-//    public void withdrawMoney(){
-//        accountService.withdrawMoney();
-//    }
-//    public Account createAccount(){
-//        return accountService.createNewAccount();
-//    }
-    public String createNewUserAccount(User user){
-        userAccService.createNewUserAccount(user);
-        return userAccView.sendOnConsole(userAccService.getUserAccount());
+    public void withdrawMoney(UserAccount userAcc) {
+        userAccService.withdrawMoney(userAcc);
     }
+
 
 
 
