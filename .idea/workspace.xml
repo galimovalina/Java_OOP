@@ -5,13 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15308db8-b0c3-4315-a9f4-5835491e2435" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Seminar_6/O/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_6/O/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_6/O/CalculatorOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_6/O/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_6/O/Subtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_6/S/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_6/S/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_6/S/TextAppender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_6/S/TextManipulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_6/S/TextPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_6/S/Word.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_6/S/WordDeleter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_6/S/WordFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Seminar_6/S/WordReplacer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework5/Controller/UserAccountController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework5/Controller/UserAccountController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework5/Model/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework5/Model/UserAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework5/Model/UserAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework5/Service/AccountService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework5/Service/UserAccountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homework5/Service/UserAccountService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +29,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
