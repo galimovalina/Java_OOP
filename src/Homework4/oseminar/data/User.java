@@ -2,6 +2,11 @@ package Homework4.oseminar.data;
 
 import java.time.LocalDate;
 
+/**
+ * Принцип подстановки Барбары Лисков. Класс-потомок Students способен выполнять те же действия,
+ * что и класс-родитель User. Любые объекты типа User, присутствующие в программе, могут заменяться
+ * объектами типа Students без негативных последствий для функциональности программы.
+ **/
 public class User {
     private String firstName;
     private String secondName;

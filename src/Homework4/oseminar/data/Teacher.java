@@ -2,6 +2,9 @@ package Homework4.oseminar.data;
 
 import java.util.Comparator;
 
+/**
+ * Принцип единственной ответственности. Класс отвечает только за создание экземпляра учителя и операций с ним
+ */
 public class Teacher extends User{
 
     private Long teacherId;

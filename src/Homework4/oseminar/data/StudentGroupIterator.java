@@ -3,6 +3,7 @@ package Homework4.oseminar.data;
 import java.util.Iterator;
 import java.util.List;
 
+
 public class StudentGroupIterator implements Iterator<Student> {
 
     private int counter;
